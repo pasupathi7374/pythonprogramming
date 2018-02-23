@@ -14,4 +14,4 @@ if alphabet in ('a','A', 'e','E', 'i','I', 'o','O', 'u',' U'):
 	print("it is a vowel")
 
 else:
-	print("it is not a vowel")
+	print("it is a constant")
