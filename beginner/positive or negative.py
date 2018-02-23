@@ -1,7 +1,9 @@
 num = float(input("Enter a number: "))
-if 0<=num<=100000:
+if 1<=num<=100000:
    print("Positive number")
-elif num<0:
+elif num -1>=num>=-100000:
    print("negative number")
+elif num==0:
+   print("zero")
 else:
-   print("exceeded")
+   print("the number exceed the limit")
