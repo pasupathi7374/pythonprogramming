@@ -1,8 +1,8 @@
 #-------------------------------------------------------------------------------
-# Name:        module1
+# Name:        even or odd
 # Purpose:
 #
-# Author:      Administrator
+# Author:      bb
 #
 # Created:     23-02-2018
 # Copyright:   (c) Administrator 2018
